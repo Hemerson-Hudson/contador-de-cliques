@@ -13,7 +13,7 @@ O objetivo deste projeto é praticar conceitos básicos do React, como:
 - Eventos com onClick
 - Renderização dinâmica
 
----
+------------
 
 ## Tecnologias Utilizadas
 
